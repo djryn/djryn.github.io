@@ -5,10 +5,10 @@ permalink: /teaching/
 author_profile: true
 ---
 
-kachow my dudes
+This is a summary of my teaching experiences.
 
 {% include base_path %}
 
-{% for post in site.teaching reversed %}
+<ul>{% for post in site.teaching reversed %}
   {% include archive-single.html %}
-{% endfor %}
+{% endfor %}</ul>
