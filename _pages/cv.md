@@ -9,37 +9,24 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## Education
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+North Carolina State University\\
+PhD in Applied Mathematics\\
+Aug 2024 -- Present
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+Southern Methodist University\\
+BA in Mathematics, BA in Computer Science, BA in Music\\
+_Summa Cum Laude_\\
+Aug 2020 -- May 2024
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Honors and Awards
+* Charles J. Pipes Merit Award (2024)
+* SMU Honor Roll with Distinction (2021 – 2024)
+* Hamilton Scholar (2023)
+* Summer Undergraduate Research Fellow (2023)
+* Maguire Ethics Essay Competition Finalist (2022)
+
 
 Publications
 ======
@@ -59,6 +46,5 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
+## Service 
 * Currently signed in to 43 different slack teams
